@@ -1,0 +1,121 @@
+.navbar {
+    list-style-type: none;
+    margin-bottom: 15px;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    background-color: rgb(156, 9, 9);
+}
+
+.navitem {
+    float: left;
+}
+
+.navitem a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 0px 60px 5px 5px;
+    font-size: 20pt;
+    font-weight: 600;
+    text-decoration: none;
+}
+/* Change the link color to #111 (black) on hover */
+.navitem a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: black;
+}
+#arminh1 {
+    color: red;
+    text-align: center;
+}
+
+#armin_img {
+    -webkit-transform:rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    padding-top: 200px;
+    display: block;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+  }
+  p {
+      font-family: "Ariel", Times, serif;
+      font-size: 40pt;
+      text-indent: 2%;
+      text-align: justify; 
+      line-height: 120%;
+      padding-left: 2%;
+      padding-right: 2%;
+  }
+  pre {
+    font-family: "Ariel", Times, serif;
+    font-size: 40pt;
+    line-height: 50pt;
+}
+  h2 {
+      font-family: "Ariel", Times, serif;
+      font-size: 60pt;
+     }
+  .h3li {
+    font-family: "Ariel", Times, serif;     
+    font-size: 30pt;
+    font-weight: 400;
+    margin-bottom: 1%;
+    margin-top: 0in;
+    text-align: left;
+    }
+  .list_item {
+      padding-bottom: 3%;
+      font-size: 40pt;
+      margin-left: 2%;
+  }
+  div {
+    font-family: "Ariel", Times, serif;
+    font-size: 20px;
+    line-height: 2.3em;
+    vertical-align: top;
+    margin-bottom: 0em;
+    border-radius: 0.5em;
+    padding: 1em;
+    box-sizing: border-box;
+    width: 100%;
+  }
+.div_wholeline {
+    font-size: 20px;
+    line-height: 2.3em;
+    vertical-align: top;
+    margin-bottom: 0em;
+    border-radius: 0.5em 0.5em 0.5em o.5em;
+    padding: 0em;
+    margin-top: 25px;
+    margin-left:10px;
+    margin-right: 10px;
+    box-sizing: border-box;
+    width: 100%;
+    border-color: rgb(102, 7, 7);
+    border-style: solid;
+    border-width: 20px;
+
+
+  } 
+a {
+    text-decoration: none;
+}
+
+.ib {
+    display: inline-block;
+}
+
+.HL {
+    width: 100%;
+    border-top: 60px solid green;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+}
