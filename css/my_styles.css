@@ -32,19 +32,7 @@
     text-align: center;
 }
 
-#armin_img {
-    -webkit-transform:rotate(0deg);
-    -moz-transform: rotate(0deg);
-    -ms-transform: rotate(0deg);
-    -o-transform: rotate(0deg);
-    transform: rotate(0deg);
-    padding-top: 200px;
-    display: block;
-    float: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 500px;
-  }
+
   p {
       font-family: "Times New Roman", Times, serif;
       font-size: 20pt;
