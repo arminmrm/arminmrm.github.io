@@ -72,6 +72,8 @@
     text-align: left;
     }
   .list_item {
+       font-family: "Ariel", Times, serif;
+       font-size: 20px;
       padding-bottom: 3%;
       font-size: 25pt;
       margin-left: 2%;
